@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+env/
+*.sqlite3
+
+# Node / frontend
+node_modules/
+dist/
+.vite/
+build/
+*.log
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Misc
+*.pem
+*.key
